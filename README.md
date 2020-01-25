@@ -1,7 +1,7 @@
 # Introdução a Programação
 
-## Pseudo-Linguagem Portugol
-## Linguagem C
+* Pseudo-Linguagem Portugol
+* Linguagem C
 
 Algoritmos foram implementados na disciplina de Programação Computacional 2015.2, utilizando Portugol e C
 
