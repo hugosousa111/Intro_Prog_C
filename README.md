@@ -1,5 +1,8 @@
-# Intro_Prog_C
+# Introdução a Programação
 
-Algoritmos implementados na disciplina de Programação Computacional 2015.2, utilizando Portugol e a linguagem de programação C
+## Pseudo-Linguagem Portugol
+## Linguagem C
 
-No trabalho final é implementado o jogo da forca e o jogo da velha em C
+Algoritmos foram implementados na disciplina de Programação Computacional 2015.2, utilizando Portugol e C
+
+O trabalho final é a implementação simples do jogo da forca e o jogo da velha em C
